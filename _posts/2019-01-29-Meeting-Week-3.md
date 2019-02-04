@@ -9,7 +9,7 @@ All of us were interested in the issue of tickets having sentimental value and o
 
 We came up with the following triangle to summarise our direction:
 
-![Triangle](/img/triangle.png)
+![Triangle](../img/triangle.png)
 
 Next week, we plan to further develop this idea. To that end, we have scheduled a meeting with Bettina Nissen, who has worked on data souvenirs in the past, and plan to have another group meeting to brainstorm ideas.
 
