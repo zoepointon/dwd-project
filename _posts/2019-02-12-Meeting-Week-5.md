@@ -14,7 +14,7 @@ For more details: https://github.com/zoepointon/dwd-project/blob/master/_posts/2
 ## Paper Prototyping Workshop
 At first our idea was to set up a "stand" and connect an iPad to a printer. The user would follow the instructions on the iPad and enter his data, and then customized postcards would be printed and ready to collect when the operation was complete. By scanning the QR code on the postcard, the user could see the 3D model based on his data on his mobile phone. Later we realized that designing a vending machine with a display screen and a printer would match the flow we designed more.
 
-![paper prototype](/dwd-project/img/20190212_154102158_iOS.JPG)
+![paper prototype](/dwd-project/img/20190212_154102158_iOS.jpg)
 
 For the whole flow of our storyline: https://media.ed.ac.uk/media/1_8y6nczdw
 
