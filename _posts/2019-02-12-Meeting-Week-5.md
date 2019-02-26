@@ -15,7 +15,7 @@ At first our idea was to set up a "stand" and connect an iPad to a printer. The 
 
 ![paper prototype](/dwd-project/img/20190212_154102158_iOS.jpg)
 
-For the whole flow of our storyline: [](https://media.ed.ac.uk/media/1_8y6nczdw)
+For the whole flow of our storyline: [More details](https://media.ed.ac.uk/media/1_8y6nczdw)
 
 
 ## Tutor meeting
