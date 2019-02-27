@@ -20,11 +20,12 @@ The shape design on souvenirs and website is the most critical part of our proje
 We want to make a 3D shape using location and time as coordinates, and when visitors look from the top, they will get a two dimensional map without time, just the events or locations they have been at. The background picture of it is like a universe and the shape is similar to constellation.
 
 
-![Image description](/dwd-project/img/shape_sample1.jpg)
+![Image description](/dwd-project/img/shape_sample1.JPG)
 (From Sky Walk2 APP)
 
-![Image description](/dwd-project/img/shape_sample2.jpg)
+![Image description](/dwd-project/img/shape_sample2.JPG)
 (https://johnhw.github.io/umap_primes/index.md.html)
+
 
 *resource*
 https://www.behance.net/gallery/41273885/Emotional-zone-Relationships-map
