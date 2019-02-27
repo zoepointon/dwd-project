@@ -21,9 +21,11 @@ We want to make a 3D shape using location and time as coordinates, and when visi
 
 
 ![Image description](/dwd-project/img/shape_sample1.JPG)
+
 (From Sky Walk2 APP)
 
 ![Image description](/dwd-project/img/shape_sample2.JPG)
+
 (https://johnhw.github.io/umap_primes/index.md.html)
 
 
