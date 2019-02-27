@@ -31,7 +31,6 @@ We want to make a 3D shape using location and time as coordinates, and when visi
 
 *resource*
 https://www.behance.net/gallery/41273885/Emotional-zone-Relationships-map
-https://www.behance.net/gallery/41273885/Emotional-zone-Relationships-map
 https://www.pinterest.co.uk/pin/772789617287568179/
 http://www.doyoustillbelieve.com/discover
 https://ici.radio-canada.ca/gentriville/accueil
