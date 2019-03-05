@@ -9,7 +9,7 @@ During this session we brainstormed ideas for the project. Since our focus is da
 
 
 ## Data -
-Ideas - Weather, location, favourite, events, 
+Ideas - Weather, location, favourite, events.
 
 ![Image](/dwd-project/img/IMG_0617.JPG "icon")
 
