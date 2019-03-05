@@ -16,6 +16,7 @@ At today's lecture, Marco Mason emphasized the project should be attractive enou
 We drew the storyboard of vending machine and postcard.
 
 ![Image description](/dwd-project/img/IMG_7535.jpg)
+![Image description](/dwd-project/img/IMG_7537.jpg)
 ![Image description](/dwd-project/img/IMG_7540.jpg)
 
 ## Feedback
