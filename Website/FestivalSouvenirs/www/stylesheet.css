@@ -13,8 +13,6 @@ h1 {
   text-align: center;
 }
 
-
-
 .container-1, .container-2 {
   height: 100vh;
 }
@@ -26,4 +24,8 @@ h1 {
 .container-1 .inner {
   text-align: center;
   padding-top: 40vh;
+}
+
+input, button {
+	color: #000;
 }
