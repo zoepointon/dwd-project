@@ -10,8 +10,8 @@ During this session we brainstormed ideas for the project. Since our focus is da
 
 ## Data -
 Ideas - Weather, location, favourite, events.
-
-![Image](/dwd-project/img/IMG_0617.JPG "icon")
+![Image description](/dwd-project/img/31cd620e-90d5-439f-a461-66336d691e48.JPG)
+![Image description](/dwd-project/img/IMG_0617.JPG "icon")
 
 
 ## Input -
@@ -19,20 +19,20 @@ For the input we want to create an interaction that would make the user feel asi
 
 Ideas - Google forms, webpage, touch screen display, mobile app. 
 
-![Image](/dwd-project/img/IMG_0618.JPG "icon")
+![Image description](/dwd-project/img/IMG_0618.JPG "icon")
 
 
 ## Product - 
 
 Ideas - Puzzle, postcard, something frameable, 3D print, virtual souvenir.
 
-![Image](/dwd-project/img/IMG_0616.JPG "icon")
+![Image description](/dwd-project/img/IMG_0616.JPG "icon")
 
 
 ## User Needs - 
 We talked about how lots of people that go to Edinburgh Festival 
 
-![Image](/dwd-project/img/IMG_0620.JPG "icon")
+![Image description](/dwd-project/img/IMG_0620.JPG "icon")
 
 Ideas - Portable
 
