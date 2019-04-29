@@ -10,7 +10,6 @@ During this session we brainstormed ideas for the project. Since our focus is da
 
 ## Data -
 Ideas - Weather, location, favourite, events.
-![Image description](/dwd-project/img/31cd620e-90d5-439f-a461-66336d691e48.JPG)
 ![Image description](/dwd-project/img/IMG_0617.JPG "icon")
 
 
